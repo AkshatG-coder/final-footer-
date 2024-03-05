@@ -59,6 +59,7 @@ h2{
     border-radius: 50%;
     margin: 5px auto;
     width: 150px;
+	box-shadow: 5px 8px 20px rgba(255, 253, 253, 0.354);
 }
 .social-icon-box .icon:hover{
     width: 300px;

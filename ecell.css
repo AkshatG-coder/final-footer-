@@ -180,9 +180,18 @@ h2{
     footer{
 
     }
-    /* .footer-links4{
-      margin: 70px; */
-    /* }  */
 }
+  .copyright{
+    text-align: center;
+    padding: 10px;
+    color: #ddd;
+  }
+  .RGIPT{
+    transition: 1s ease-in;
+    cursor:pointer;
+  }
+  .RGIPT:hover{
+    color: #dc2743;
+  }
     
 
